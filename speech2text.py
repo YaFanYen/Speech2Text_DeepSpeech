@@ -4,9 +4,8 @@ import numpy as np
 import wave
 
 from deepspeech import Model
-from timeit import default_timer as timer
 
-model    = 'models/deepspeech-0.9.3-models.pbmm'
+model = 'models/deepspeech-0.9.3-models.pbmm'
 ds = Model(model) 
 
 data_path = '/home/ed716/Documents/NewSSD/Cocktail/audio/speech2text/resources/data'
