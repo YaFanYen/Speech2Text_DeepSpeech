@@ -12,9 +12,10 @@ Run `python speech2text.py` to get the text file with format `filename, text` .
 
 ## wer
 
-Compare the word error rate(WER) of different gender.
+Compare the word error rate (WER) of different gender.
 
-Use the .txt file generated from speech2text.py as ground truth.
+Use the .txt file generated from `speech2text.py` as ground truth.
 
 Plot it with `python wer.py` .
+
 
