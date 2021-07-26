@@ -1,5 +1,7 @@
 # Speech2Text_DeepSpeech
 
+Install the models `deepspech-0.9.3-models.pbmm` and `deepspech-0.9.3-models.scorer` and place them under the `model` directory.
+
 ## speech2text
 
 Use deepspeech to convert speech to text and save it in .txt file.
